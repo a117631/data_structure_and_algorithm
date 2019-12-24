@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d869ebdc-c4b6-4aae-95c9-8acb5ce1e84e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data_structure_and_algorithm/META-INF/data_structure_and_algorithm.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data_structure_and_algorithm/base/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data_structure_and_algorithm/base/SingleLinked$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data_structure_and_algorithm/base/SingleLinked.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data_structure_and_algorithm/linkedlist/LRULinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data_structure_and_algorithm/linkedlist/LinkedListPalindrome.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +121,7 @@
       <workItem from="1577087183640" duration="1133000" />
       <workItem from="1577093279843" duration="2726000" />
       <workItem from="1577175937910" duration="17069000" />
-      <workItem from="1577194025177" duration="69000" />
+      <workItem from="1577194025177" duration="581000" />
     </task>
     <servers />
   </component>
