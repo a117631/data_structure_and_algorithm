@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d869ebdc-c4b6-4aae-95c9-8acb5ce1e84e" name="Default Changelist" comment="" />
+    <list default="true" id="d869ebdc-c4b6-4aae-95c9-8acb5ce1e84e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data_structure_and_algorithm/META-INF/data_structure_and_algorithm.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data_structure_and_algorithm/base/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data_structure_and_algorithm/base/SingleLinked$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data_structure_and_algorithm/base/SingleLinked.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data_structure_and_algorithm/linkedlist/LRULinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data_structure_and_algorithm/linkedlist/LinkedListPalindrome.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,13 +27,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1VNIZj4ufOiwDbH6X5DXYcRe6Lh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedListPalindrome">
+  <component name="RunManager" selected="Application.LRULinkedList">
     <configuration name="FinallyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedlist.FinallyTest" />
       <module name="data_structure_and_algorithm" />
@@ -93,8 +108,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkedListPalindrome" />
         <item itemvalue="Application.LRULinkedList" />
+        <item itemvalue="Application.LinkedListPalindrome" />
         <item itemvalue="Application.integerTest" />
         <item itemvalue="Application.FinallyTest" />
       </list>
@@ -113,11 +128,23 @@
       <workItem from="1577087183640" duration="1133000" />
       <workItem from="1577093279843" duration="2726000" />
       <workItem from="1577175937910" duration="17069000" />
+      <workItem from="1577194025177" duration="69000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
