@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d869ebdc-c4b6-4aae-95c9-8acb5ce1e84e" name="Default Changelist" comment="" />
+    <list default="true" id="d869ebdc-c4b6-4aae-95c9-8acb5ce1e84e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data_structure_and_algorithm/bean/SingleLinked$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data_structure_and_algorithm/bean/SingleLinked.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data_structure_and_algorithm/linkedlist/LRULinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data_structure_and_algorithm/linkedlist/LinkedListPalindrome.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +125,7 @@
       <workItem from="1577087183640" duration="1133000" />
       <workItem from="1577093279843" duration="2726000" />
       <workItem from="1577175937910" duration="17069000" />
-      <workItem from="1577194025177" duration="852000" />
+      <workItem from="1577194025177" duration="1070000" />
     </task>
     <servers />
   </component>
